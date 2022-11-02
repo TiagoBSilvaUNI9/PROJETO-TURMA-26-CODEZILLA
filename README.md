@@ -8,6 +8,7 @@
 * Allan Tavares de Souza Feitosa
 * Gabriel de Lima Sovrani
 * Gabriel Gomes Mares
+* Lucas Alves
 * Maria Clara Souza Genezini
 * Marcelo Monteiro Alves Filho
 * Mateus Machado Freire
