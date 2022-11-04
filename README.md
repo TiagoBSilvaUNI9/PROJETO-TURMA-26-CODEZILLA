@@ -16,7 +16,7 @@
 * Nicky Oishi Kim
 * Pablo Henrique da Silva Nunes
 * Rony Alves Dias
-* Tiago Borges Silva
+* Tiago Borges Silva (TiagoBSilvaUNI9)
 
 # Instrutor
 
